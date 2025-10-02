@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Alt text]()
+![Alt text](https://github.com/mpuntus-css/Listicle2/blob/main/Project.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
